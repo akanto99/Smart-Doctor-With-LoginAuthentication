@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">smart doctor</string>
+    <string name="facebook_app_id">337633888178383</string>
+    <string name="fb_login_protocol_scheme">fb337633888178383</string>
+    <string name="facebook_client_token">308154708f8ec50d424c1ae3565d35c0</string>
+</resources>
